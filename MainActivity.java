@@ -11,7 +11,7 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 
-	// Updated Code
+	// Updated Code - For Customer
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
